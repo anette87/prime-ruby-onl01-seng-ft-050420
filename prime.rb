@@ -1,1 +1,5 @@
-# Add  code here!
+require 'prime'
+
+def prime?(numbers)
+  numbers.prime?
+end 
