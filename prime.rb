@@ -9,3 +9,5 @@ def prime?(number)
     false
   end
 end
+
+def prime?(3232)
