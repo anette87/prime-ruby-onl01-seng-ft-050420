@@ -10,4 +10,3 @@ def prime?(number)
   end
 end
 
-def prime?("3232")
